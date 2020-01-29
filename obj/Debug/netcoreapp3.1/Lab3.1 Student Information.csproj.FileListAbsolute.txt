@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\obj\Debug\netcoreapp3.1\Lab3.1 Student Information.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\obj\Debug\netcoreapp3.1\Lab3.1 Student Information.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\obj\Debug\netcoreapp3.1\Lab3.1 Student Information.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\bin\Debug\netcoreapp3.1\Lab3.1 Student Information.exe
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\bin\Debug\netcoreapp3.1\Lab3.1 Student Information.deps.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\bin\Debug\netcoreapp3.1\Lab3.1 Student Information.runtimeconfig.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\bin\Debug\netcoreapp3.1\Lab3.1 Student Information.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\bin\Debug\netcoreapp3.1\Lab3.1 Student Information.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\bin\Debug\netcoreapp3.1\Lab3.1 Student Information.pdb
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\obj\Debug\netcoreapp3.1\Lab3.1 Student Information.dll
+C:\Users\mellis2\source\repos\DevBuild GC\Week 3\Lab3.1 Student Information\obj\Debug\netcoreapp3.1\Lab3.1 Student Information.pdb
